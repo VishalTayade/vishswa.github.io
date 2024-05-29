@@ -1,7 +1,9 @@
 Project Overview
+
 This is a custom wedding website designed to provide guests with all the necessary information about the wedding events, schedules, locations, and RSVP functionality.
 
 Features
+
 Home Page: A welcome message with the couple's names and wedding date.
 About Us: A section with information about the couple's story.
 Events: Detailed schedule of wedding events.
@@ -17,6 +19,7 @@ Hosting: [Specify the hosting platform, e.g., Netlify, Heroku]
 
 
 Installation
+
 Clone the repository:
 git clone https://github.com/yourusername/wedding-website.git
 
